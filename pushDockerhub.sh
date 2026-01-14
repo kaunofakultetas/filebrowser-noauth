@@ -1,6 +1,7 @@
 #!/bin/bash
+set -e
 
-CONTAINER_NAME=filebrowser-unauth
+CONTAINER_NAME=filebrowser-noauth
 
 TODAY=$(date +%Y%m%d)
 sudo docker login -u admin@knf.vu.lt

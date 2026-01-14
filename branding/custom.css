@@ -30,16 +30,18 @@ header * {
     color: white;
 }
 
-/* 
+
 div.credits {
     display: none;
 }
 p.credits {
     display: none;
 }
-#app > div > div > nav > div:nth-child(3) {
+
+/* Hide the student button from sidebar */
+nav > button:first-child {
     display: none;
-} */
+}
 
 
 /* remove a bit of padding from the file list entries */
