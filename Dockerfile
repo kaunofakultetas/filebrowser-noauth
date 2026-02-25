@@ -1,4 +1,4 @@
-FROM filebrowser/filebrowser:v2.54.0
+FROM filebrowser/filebrowser:v2.60.0
 
 USER root
 

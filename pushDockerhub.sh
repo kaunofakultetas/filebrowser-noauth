@@ -2,7 +2,7 @@
 set -e
 
 CONTAINER_NAME=filebrowser-noauth
-VERSION=v2.54.0
+VERSION=v2.60.0
 
 sudo docker login -u admin@knf.vu.lt
 sudo docker build -t $CONTAINER_NAME .

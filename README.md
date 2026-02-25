@@ -1,4 +1,4 @@
 # filebrowser-noauth
 
 
-Filebrowser Version: v2.54.0
+Filebrowser Version: v2.60.0
